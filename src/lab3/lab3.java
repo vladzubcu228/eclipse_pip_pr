@@ -7,5 +7,6 @@ public class lab3 {
 		System.out.println("How are you?");
 		System.out.println("1");
 		System.out.println("2");
+		System.out.println("3");
 	}
 }
